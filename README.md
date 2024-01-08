@@ -68,7 +68,7 @@ After the project kick off meetings, the data engineering team has given the dat
 
 ### Dataset **Understanding.**
 
-Understanding what data is available will be more helpful while doing analysis. before jumping on to the analysis get good understanding of what are data available.
+Dataset is a mix of both Dimension and Fact table.
 
 Dimension table : It will have the static data like details of customer and products
 
@@ -130,3 +130,29 @@ Fact table : It will have the data about the transactions
 ## Importing data into PowerBi
 
 - As we used MySql Database, imported datasets from database to PowerBI (need to provide access rights / credentials)
+
+## Data Model
+
+- Data modeling plays a vital role and is considered as the base for report. All the visuals will be build upon the data model.
+- Poor data modeling could affect the over all performance of the report.
+- In this project, we have followed Snowfall data modeling method.
+
+<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+
+### Dashboard designing
+
+Dashboard is prepared as per business / department and stakeholders requirement to answer the critical business questions affectively
+
+The business's are divided into following categories / departments:
+  - Finance
+  - Sales
+  - Marketing
+  - Supply Chain
+    
+And to further support the users included following:
+- Home Page
+- Executive view
+- Support
+
+## Overall Report
+
