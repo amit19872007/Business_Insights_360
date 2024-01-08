@@ -149,7 +149,7 @@ The business's are divided into following categories / departments:
   - Marketing
   - Supply Chain
     
-And to further support the users included following:
+And to further support the users included following reports:
 - Home Page
 - Executive view
 - Support
