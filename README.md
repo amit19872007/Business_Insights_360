@@ -11,8 +11,7 @@ You can access the report from [here](https://www.novypro.com/project/atliq-hard
 - Excel
 - DAX language
 - Power query
-- DAX studio (for optimizing the report)
-- Project charter file
+- DAX studio (for report optimization)
 
 ## Key Learnings:
 ### Power BI
