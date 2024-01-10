@@ -137,22 +137,33 @@ Fact table : It will have the data about the transactions
 - Poor data modeling could affect the over all performance of the report.
 - In this project, we have followed Snowfall data modeling method.
 
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
 Dashboard is prepared as per business / department and stakeholders requirement to answer the critical business questions affectively
 
 The business's are divided into following categories / departments:
-  - Finance
-  - Sales
-  - Marketing
-  - Supply Chain
-    
-And to further support the users included following reports:
-- Home Page
-- Executive view
-- Support
+  - Home Page
+  - Finance view
+  - Sales view
+  - Marketing view
+  - Supply Chain view
+  - Executive view
+  - Support    
 
-## Overall Report
+## Home page and Finance View
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Finance%20view.gif" class="center">
+
+## Sales View
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Sales%20view.gif" class="center">
+
+## Marketing View
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Marketing%20View.gif" class="center">
+
+## Supply chain view
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Supply%20chain%20view.gif" class="center">
+
+## Executive view
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Executive%20View.gif" class="center">
 
