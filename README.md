@@ -168,7 +168,7 @@ The business's are divided into following categories / departments:
 <img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/supply%20chain%20view.gif" class="center">
 
 ## Executive view
-<img src=https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Executive%20Overview.gif" class="center">
+<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Executive%20Overview.gif" class="center">
 
 
 # Report Outcome
