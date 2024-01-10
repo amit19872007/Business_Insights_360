@@ -167,3 +167,8 @@ The business's are divided into following categories / departments:
 ## Executive view
 <img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Executive%20View.gif" class="center">
 
+
+# Report Outcome
+The report gives details of each of department and dig deeper into the challenges the company is facing with respect to GM%, Net profit%, etc.
+It is enabling the mangement to understand which region / product / category is not performing as per required standards.
+Based on all the key details decisions can be made
