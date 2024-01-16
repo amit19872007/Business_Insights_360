@@ -152,22 +152,22 @@ The business's are divided into following categories / departments:
   - Support    
 
 ## Overall Report 
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Overall%20report.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/overall.gif" class="center">
 
 ## Home page and Finance View
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Finance%20view.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Finance%20view.gif" class="center">
 
 ## Sales View
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/sales%20view.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Sales%20view.gif" class="center">
 
 ## Marketing View
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Marketing.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Marketing%20view.gif" class="center">
 
 ## Supply chain view
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/supply%20chain%20view.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Supply%20chain%20view.gif" class="center">
 
 ## Executive view
-<img src="https://github.com/amit19872007/Business_Insights_360/blob/main/Resources/Executive%20Overview.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Executive%20view.gif" class="center">
 
 
 # Report Outcome
