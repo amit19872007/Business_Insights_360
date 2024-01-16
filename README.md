@@ -155,10 +155,10 @@ The business's are divided into following categories / departments:
 <img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Overall%20View.gif" class="center">
 
 ## Finance View
-<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Finance%20view.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Finance%20view.gif.gif class="center">
 
 ## Sales View
-<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/sales%20view.gif" class="center">
+<img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Sales%20View.gif" class="center">
 
 ## Marketing View
 <img src="https://github.com/amitgajkal/Business_Insights_360---PowerBI/blob/main/Resources/Marketing%20view.gif" class="center">
